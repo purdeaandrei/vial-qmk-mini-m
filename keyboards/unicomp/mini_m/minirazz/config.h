@@ -1,0 +1,20 @@
+/* SPDX-License-Identifier: GPL-2.0-or-later */
+
+#pragma once
+
+#ifndef SERIAL_NUMBER
+#define SERIAL_NUMBER "purdea.ro:minirazz"
+#endif
+
+#define MATRIX_ROWS 12
+#define MATRIX_COLS 16
+
+#define SOLENOID_PIN GP25
+#define HAPTIC_ENABLE_PIN GP23
+#define SOLENOID_DEFAULT_DWELL 20
+#define SOLENOID_MIN_DWELL 4
+#define HAPTIC_OFF_IN_LOW_POWER 1
+#define NO_HAPTIC_MOD
+
+#define WEAR_LEVELING_LOGICAL_SIZE 16384
+#define WEAR_LEVELING_BACKING_SIZE (WEAR_LEVELING_LOGICAL_SIZE * 2)
