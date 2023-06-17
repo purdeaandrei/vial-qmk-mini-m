@@ -1,5 +1,5 @@
 {
-  "name": "Mini M with MiniRazz controller",
+  "name": "Mini M",
   "lighting": "none",
   "customKeycodes": [
     {"name": "NumScr\nLock", "title": "Shift-ScrollLock behaves as NumLock", "shortName": "NUMSLCK"}
