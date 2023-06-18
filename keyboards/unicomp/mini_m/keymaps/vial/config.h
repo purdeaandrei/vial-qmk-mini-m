@@ -9,6 +9,10 @@
 #define VIAL_UNLOCK_COMBO_ROWS { 0, 0 }
 #define VIAL_UNLOCK_COMBO_COLS { 1, 0xd }
 
+// The following info is already in info.json, but the vial repository doesn't recognize it yet.
+#define BOOTMAGIC_LITE_ROW 0
+#define BOOTMAGIC_LITE_COLUMN 1
+
 #define DYNAMIC_KEYMAP_MACRO_COUNT 32
 #define DYNAMIC_KEYMAP_LAYER_COUNT 16
 
