@@ -23,3 +23,4 @@
 
 // with eager debouncing the default is not good enough:
 #define DEBOUNCE 10
+#define DEGHOST_ADVANCED
